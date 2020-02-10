@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 09/04/2019 16:17
+    Creation date: 10/02/2020 14:04
     */
 
     @font-face {
@@ -37,16 +37,18 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-mining:before { content: "\f100"; }
-.flaticon-gold-ingots:before { content: "\f101"; }
-.flaticon-wagon:before { content: "\f102"; }
-.flaticon-refinery:before { content: "\f103"; }
-.flaticon-blacksmith:before { content: "\f104"; }
-.flaticon-crucible:before { content: "\f105"; }
+    .flaticon-shield:before { content: "\f100"; }
+.flaticon-secret:before { content: "\f101"; }
+.flaticon-vote:before { content: "\f102"; }
+.flaticon-vote-1:before { content: "\f103"; }
+.flaticon-fingerprint:before { content: "\f104"; }
+.flaticon-mobile-app:before { content: "\f105"; }
+.flaticon-marketing:before { content: "\f106"; }
     
-    $font-Flaticon-mining: "\f100";
-    $font-Flaticon-gold-ingots: "\f101";
-    $font-Flaticon-wagon: "\f102";
-    $font-Flaticon-refinery: "\f103";
-    $font-Flaticon-blacksmith: "\f104";
-    $font-Flaticon-crucible: "\f105";
+    $font-Flaticon-shield: "\f100";
+    $font-Flaticon-secret: "\f101";
+    $font-Flaticon-vote: "\f102";
+    $font-Flaticon-vote-1: "\f103";
+    $font-Flaticon-fingerprint: "\f104";
+    $font-Flaticon-mobile-app: "\f105";
+    $font-Flaticon-marketing: "\f106";
